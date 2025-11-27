@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<certifications>
+    <cert>
+        <name>Full Stack Dev</name>
+        <org>Udemy</org>
+        <year>2023</year>
+    </cert>
+    <cert>
+        <name>Python Data Science</name>
+        <org>IBM</org>
+        <year>2024</year>
+    </cert>
+</certifications>
